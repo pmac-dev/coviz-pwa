@@ -1,0 +1,32 @@
+.webPage{
+    width: calc(100%);
+   /* height: 100rem;*/
+    /*min-height: 1000px;*/
+    height: 100vh;
+    background-color: transparent;
+    /*overflow: hidden ;*/
+    background:url(../assets/loading.gif) center center no-repeat;
+  }
+
+  body {
+    margin: 0 !important;
+  }
+
+  html {
+    margin: 0 !important;
+  }
+
+  @media (max-width: 600px) {
+      h2 {
+        font-size: 6.25rem !important;
+      }
+      header h2 + p {
+        font-size: 3.25rem !important;
+    }
+
+    input[type="submit"].small, input[type="reset"].small, input[type="button"].small, button.small, .button.small {
+      font-size: 1.6rem !important;
+
+  }
+
+  }

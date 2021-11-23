@@ -1,1 +1,23 @@
 /* You can add global styles to this file, and also import other style files */
+
+
+body {
+    margin: 0 !important;
+  }
+
+  html {
+    margin: 0 !important;
+  }
+
+  iframe {
+    margin: 0 !important;
+  }
+/*
+@media (max-width: 600px) {
+  @viewport{
+    zoom: 1.0;
+    width: 400px;
+}
+
+}
+*/
