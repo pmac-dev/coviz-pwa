@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 import {DomSanitizer} from '@angular/platform-browser';
 
-const URL = 'https://coviz.io' ;
+const URL = 'https://lo.gic.li/coviz' ;
 
 @Component({
   selector: 'app-root',
